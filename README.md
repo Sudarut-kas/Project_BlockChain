@@ -1,4 +1,4 @@
-# BlockChain_Project_Group11
+# BlockChain_Project_Group9
 Final project, Raffle system using varifiable random function, Skoltech 2023
 
 # Solidity session
@@ -15,7 +15,7 @@ This code was written to create a lottery system in which users could send money
                  admin = msg.sender;} \
  in this part you can change to others testnet i.e. Goerli, BNB \
  
- # Step to play
+ # Step to play (prototype)
  1. Ower create lottery by click on createLottery button 
     - input ticket price(lottery price)
     - input second(time period for lottery in seconds)
@@ -41,4 +41,12 @@ This code was written to create a lottery system in which users could send money
     - input lotteryID
     and see details of the winner in getLottery
     ![Owner can get the winner.](https://github.com/waralak/Project_BlockChain/blob/main/readme_pics/13.PNG)
+    
+# Enhance prototype by connecting to user interface
+
+    
+    
+ Reference:
+ 1. https://docs.chain.link/vrf/v2/subscription/supported-networks
+ 2.
     
