@@ -35,7 +35,10 @@ This code was written to create a lottery system in which users could send money
                 
  3. Users play by click on participate button 
     - input lotteryID 
+    ![Players can check total amount of lotteries in the system and details.](https://github.com/waralak/Project_BlockChain/blob/main/readme_pics/12.PNG)
     
  4. Owner can get the winner by click on declareWinner 
     - input lotteryID
     and see details of the winner in getLottery
+    ![Owner can get the winner.](https://github.com/waralak/Project_BlockChain/blob/main/readme_pics/13.PNG)
+    
