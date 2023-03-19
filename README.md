@@ -16,7 +16,7 @@ This code was written to create a lottery system in which users could send money
  in this part you can change to others testnet i.e. Goerli, BNB \
  
  # Step to play
- 1. Ower create lottery by click on createLottery button \
+ 1. Ower create lottery by click on createLottery button 
     - input ticket price(lottery price)
     - input second(time period for lottery in seconds)
     
@@ -29,11 +29,11 @@ This code was written to create a lottery system in which users could send money
                 - uint256: ticketPrice \
                 - address: winner \
                 - boolean: isFinished \
-                - uint256: endDate \
+                - uint256: endDate 
                 
- 4. Users play by click on participate button \
-    - input lotteryID \
+ 3. Users play by click on participate button 
+    - input lotteryID 
     
- 5. Owner can get the winner by click on declareWinner \
-    - input lotteryID\
+ 4. Owner can get the winner by click on declareWinner 
+    - input lotteryID
     and see details of the winner in getLottery
