@@ -30,6 +30,7 @@ This code was written to create a lottery system in which users could send money
                 - address: winner \
                 - boolean: isFinished \
                 - uint256: endDate 
+    ![Owner creates the lotteries and Players can participate in avaialble lotteries.](https://github.com/waralak/Project_BlockChain/readme_pics/11.png?raw=true)
                 
  3. Users play by click on participate button 
     - input lotteryID 
